@@ -1,5 +1,5 @@
 #  Hello Readers👋
-## I’m Coder-2py!
+## I’m Siddiqua!
    I am a self-taught coder. And I believe no one can become a coder without self practice.
 ### 🌱 I’m currently learning 
 - Data Structures
