@@ -5,6 +5,7 @@
 - Data Structures
 - Algorithms
 - TypeScript
+- Python
 ### 🔨 Languages I code with
  * Html
  * Css
