@@ -9,7 +9,7 @@
 ### 🔨 Languages I code with
  * Html
  * Css
- * 
+ * JS
  * Python
  ### 🧲 I’m Interested in
  - Data Science
