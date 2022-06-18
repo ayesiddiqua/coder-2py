@@ -11,10 +11,13 @@
  * Css
  * JS
  * Python
+ * Java
+ * C++
  ### 🧲 I’m Interested in
  - Data Science
  - Mathematics
  - Web Development
+ - New Technologies
  
 <!---
 coder-2py/coder-2py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
